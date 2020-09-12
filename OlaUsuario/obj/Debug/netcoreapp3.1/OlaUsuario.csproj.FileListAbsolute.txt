@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.exe
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.deps.json
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.dll
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\bin\Debug\netcoreapp3.1\OlaUsuario.pdb
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.dll
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.pdb
+C:\Users\Max Leonel\Desktop\OlaUsuario\OlaUsuario\obj\Debug\netcoreapp3.1\OlaUsuario.genruntimeconfig.cache
